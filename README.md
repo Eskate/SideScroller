@@ -1,2 +1,2 @@
 # SideScroller
-First Real Game
+Our First Game
